@@ -50,4 +50,5 @@ The data for this project is sourced from https://data.humdata.org/dataset/wfp-f
 *Time Trend Analysis with Interactive Filters*
 
 ![Screenshot 2](screenshots/screenshot2.png)
+
 *Hovering Map Bubbles will Show 2024 Average Price for that Area*
